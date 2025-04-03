@@ -85,3 +85,8 @@ The dataset was slightly cleaned and transformed in Power BI to support the visu
 ## 👤 Author
 
 **João Quintão** 
+
+
+## 📄 License
+
+This project uses fictitious, non-personal data and is intended for educational and demonstrative purposes only.
